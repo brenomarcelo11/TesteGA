@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eviScfBau8s=",
+  "success": true,
+  "projectFilePath": "C:\\TesteGA\\TesteLeds\\TesteLeds.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.15\\microsoft.windowsdesktop.app.ref.8.0.15.nupkg.sha512",
+    "C:\\Users\\breno\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.15\\microsoft.aspnetcore.app.ref.8.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
