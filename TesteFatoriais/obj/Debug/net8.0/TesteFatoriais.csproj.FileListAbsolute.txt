@@ -1,0 +1,15 @@
+C:\TesteGA\TesteFatoriais\bin\Debug\net8.0\TesteFatoriais.exe
+C:\TesteGA\TesteFatoriais\bin\Debug\net8.0\TesteFatoriais.deps.json
+C:\TesteGA\TesteFatoriais\bin\Debug\net8.0\TesteFatoriais.runtimeconfig.json
+C:\TesteGA\TesteFatoriais\bin\Debug\net8.0\TesteFatoriais.dll
+C:\TesteGA\TesteFatoriais\bin\Debug\net8.0\TesteFatoriais.pdb
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.AssemblyInfoInputs.cache
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.AssemblyInfo.cs
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.csproj.CoreCompileInputs.cache
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.sourcelink.json
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.dll
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\refint\TesteFatoriais.dll
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.pdb
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\TesteFatoriais.genruntimeconfig.cache
+C:\TesteGA\TesteFatoriais\obj\Debug\net8.0\ref\TesteFatoriais.dll

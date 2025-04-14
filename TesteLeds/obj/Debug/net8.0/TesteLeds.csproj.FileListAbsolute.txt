@@ -1,0 +1,15 @@
+C:\TesteGA\TesteLeds\bin\Debug\net8.0\TesteLeds.exe
+C:\TesteGA\TesteLeds\bin\Debug\net8.0\TesteLeds.deps.json
+C:\TesteGA\TesteLeds\bin\Debug\net8.0\TesteLeds.runtimeconfig.json
+C:\TesteGA\TesteLeds\bin\Debug\net8.0\TesteLeds.dll
+C:\TesteGA\TesteLeds\bin\Debug\net8.0\TesteLeds.pdb
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.GeneratedMSBuildEditorConfig.editorconfig
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.AssemblyInfoInputs.cache
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.AssemblyInfo.cs
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.csproj.CoreCompileInputs.cache
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.sourcelink.json
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.dll
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\refint\TesteLeds.dll
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.pdb
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\TesteLeds.genruntimeconfig.cache
+C:\TesteGA\TesteLeds\obj\Debug\net8.0\ref\TesteLeds.dll
